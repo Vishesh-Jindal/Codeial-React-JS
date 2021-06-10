@@ -19,6 +19,9 @@ export function fetchUserFriends(userId) {
       .then((data) => {
         console.log('data', data);
         dispatch(fetchFriendsSucces(data.data.friends));
+      })
+      .catch(() => {
+        console.log('Friends Cannot be Fetched');
       });
   };
 }
