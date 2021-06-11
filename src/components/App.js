@@ -54,7 +54,6 @@ class App extends React.Component {
     this.props.dispatch(fetchPosts());
 
     const token = getAuthTokenFromLocalStorage();
-
     if (token) {
       const user = jwtDecode(token);
 

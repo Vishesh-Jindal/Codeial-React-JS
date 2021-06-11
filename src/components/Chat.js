@@ -14,12 +14,12 @@ class Chat extends Component {
     };
     this.socket = io.connect('http://codeial.codingninjas.com:5000');
     this.userEmail = props.user.email;
-
+  }
+  componentDidMount() {
     if (this.userEmail) {
       this.setupConnections();
     }
   }
-
   setupConnections = () => {
     const socketConnection = this.socket;
     const self = this;
@@ -42,6 +42,7 @@ class Chat extends Component {
       const { messages } = self.state;
       const messageObject = {};
       messageObject.content = data.message;
+      messageObject.id = messages.length + 1;
 
       if (data.user_email === self.userEmail) {
         messageObject.self = true;
@@ -97,6 +98,7 @@ class Chat extends Component {
                       ? 'chat-bubble self-chat'
                       : 'chat-bubble other-chat'
                   }
+                  key={message.id}
                 >
                   {message.content}
                 </div>
