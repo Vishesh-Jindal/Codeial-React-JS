@@ -1,4 +1,4 @@
-# SocialOrzix
+# Codeial
 <img src="https://img.shields.io/badge/Dev-Complete-green">
 
 A social media website using REACT JS, REDUX (using <a href="http://codeial.codingninjas.com:8000/">CODEIAL</a> API)
