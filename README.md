@@ -1,5 +1,5 @@
 # SocialOrzix
-<img src="https://img.shields.io/github/issues/parikshit223933/SocialOrzix"> <img src="https://img.shields.io/badge/Dev-Complete-green">
+<img src="https://img.shields.io/badge/Dev-Complete-green">
 
 A social media website using REACT JS, REDUX (using <a href="http://codeial.codingninjas.com:8000/">CODEIAL</a> API)
 
@@ -12,25 +12,25 @@ A social media website using REACT JS, REDUX (using <a href="http://codeial.codi
 
 ## Features and Screenshots
 ### 1. Front Component (Entry page)
-<img src="https://github.com/visheshjindal8899/Codeial-React-JS/blob/master/src/images/1.PNG" width=500>
+<img src="https://github.com/visheshjindal8899/Codeial-React-JS/blob/master/src/images/1.png" width=500>
 
 ### 2. Login Component
-<img src="https://github.com/parikshit223933/SocialOrzix/blob/master/src/images/2.PNG" width=500>
+<img src="https://github.com/visheshjindal8899/Codeial-React-JS/blob/master/src/images/2.png" width=500>
 
 ### 3. SignUp Component
-<img src="https://github.com/parikshit223933/SocialOrzix/blob/master/src/images/3.PNG" width=500>
+<img src="https://github.com/visheshjindal8899/Codeial-React-JS/blob/master/src/images/3.png" width=500>
 
 ### 4. Chat and Friends components shows up after signing in
-<img src="https://github.com/parikshit223933/SocialOrzix/blob/master/src/images/4.PNG" width=500>
+<img src="https://github.com/visheshjindal8899/Codeial-React-JS/blob/master/src/images/4.png" width=500>
 
 ### 5. Fully functional chat box component
-<img src="https://github.com/parikshit223933/SocialOrzix/blob/master/src/images/5.PNG" width=300>
+<img src="https://github.com/visheshjindal8899/Codeial-React-JS/blob/master/src/images/5.png" width=500>
 
 ### 6. SearchBar Component for searching users
-<img src="https://github.com/parikshit223933/SocialOrzix/blob/master/src/images/6.PNG" width=500>
+<img src="https://github.com/visheshjindal8899/Codeial-React-JS/blob/master/src/images/6.png" width=500>
 
 ### 7. User profile component and functionality for adding or removing a user as a friend
-<img src="https://github.com/parikshit223933/SocialOrzix/blob/master/src/images/7.PNG" width=200>
+<img src="https://github.com/visheshjindal8899/Codeial-React-JS/blob/master/src/images/7.png" width=500>
 
 
 ## File Structure
@@ -39,7 +39,6 @@ src
 │   chat.css
 │   index.css
 │   index.js
-│   website logo.png
 │
 ├───actions<br>
 │       actionTypes.js
@@ -72,13 +71,13 @@ src
 │       utils.js
 │
 ├───images
-│       1.PNG
-│       2.PNG
-│       3.PNG
-│       4.PNG
-│       5.PNG
-│       6.PNG
-│       7.PNG
+│       1.png
+│       2.png
+│       3.png
+│       4.png
+│       5.png
+│       6.png
+│       7.png
 │
 ├───reducers
 │       auth.js
