@@ -1,19 +1,18 @@
 # SocialOrzix
 <img src="https://img.shields.io/github/issues/parikshit223933/SocialOrzix"> <img src="https://img.shields.io/badge/Dev-Complete-green">
 
-A social media website using REACT JS, REDUX (using <a href="http://codeial.com:8000/">CODEIAL</a> API)
+A social media website using REACT JS, REDUX (using <a href="http://codeial.codingninjas.com:8000/">CODEIAL</a> API)
 
 ## Tools ans libraries used
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width=200><img src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" width=125><img src="https://img-a.udemycdn.com/course/750x422/1934362_ca3c.jpg" width=200><img src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" width=200><img src="https://ourcodeworld.com/public-media/articles/articleocw-562bb367bbee4.png" width=200>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width=200><img src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" width=125><img src="https://img-a.udemycdn.com/course/750x422/1934362_ca3c.jpg" width=200><img src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" width=200>
 1. React
 2. Redux
 3. Socket.io
 4. JWT-Decode
-5. Jquery
 
 ## Features and Screenshots
 ### 1. Front Component (Entry page)
-<img src="https://github.com/parikshit223933/SocialOrzix/blob/master/src/images/1.PNG" width=500>
+<img src="https://github.com/visheshjindal8899/Codeial-React-JS/blob/master/src/images/1.PNG" width=500>
 
 ### 2. Login Component
 <img src="https://github.com/parikshit223933/SocialOrzix/blob/master/src/images/2.PNG" width=500>
